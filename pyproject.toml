@@ -15,8 +15,7 @@ name = "mypackage"
 
 version = "0.1.0"
 
-description = "A package that adds numbers together.
-"
+description = "A package that adds numbers together."
 authors = [
     { name = "Veda", email = "vedav@wustl.edu" },
 ]
